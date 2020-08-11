@@ -1,0 +1,8 @@
+[15-Nov-2018 23:12:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$_FILES' (T_VARIABLE), expecting '(' in /home3/nathanroth/ecapsule.us/index.php on line 35
+[15-Nov-2018 23:14:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home3/nathanroth/ecapsule.us/index.php on line 35
+[15-Nov-2018 23:15:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/nathanroth/ecapsule.us/index.php on line 36
+[15-Nov-2018 23:16:34 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/nathanroth/ecapsule.us/index.php on line 36
+[17-Nov-2018 22:07:37 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home3/nathanroth/ecapsule.us/index.php on line 38
+[17-Nov-2018 22:07:49 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/nathanroth/ecapsule.us/index.php on line 37
+[17-Nov-2018 22:11:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/nathanroth/ecapsule.us/index.php on line 42
+[05-Nov-2019 14:51:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/nathanroth/ecapsule.us/upload.php on line 85
